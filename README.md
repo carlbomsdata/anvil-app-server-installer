@@ -66,7 +66,7 @@ To build the installer, follow these steps:
    The following files need to be downloaded manually and placed in the directory where you cloned this repository:  
    - Git (version 2.47): [Download Git](https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.2/Git-2.47.1.2-64-bit.exe)  
    - Python (version 3.13.1): [Download Python](https://www.python.org/ftp/python/3.13.1/python-3.13.1-amd64.exe)  
-   - vcredist 2013: [Download vcredist]([https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2013-vc-120))  
+   - vcredist 2013: [Download vcredist]([https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2013-vc-120)  
    - Amazon Corretto (version 21.0.5.11.1): [Download Corretto](https://corretto.aws/downloads/latest/amazon-corretto-21-x64-windows-jdk.msi)
 
 3. **Update Paths**:  
